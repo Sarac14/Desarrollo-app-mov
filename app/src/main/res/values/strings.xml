@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="textNombre">Digite un nombre</string>
+    <string name="textApellido">Digite un apellido</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="report_planned_date">Fecha de nacimiento</string>
+    <string name="rdbSi">Si</string>
+    <string name="rdbNo">No</string>
+
+
+</resources>
