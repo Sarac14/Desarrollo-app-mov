@@ -24,7 +24,7 @@
 
     <EditText
         android:id="@+id/txtApellido"
-        android:layout_width="380dp"
+        android:layout_width="0dp"
         android:layout_height="49dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="32dp"
@@ -92,10 +92,10 @@
 
     <Spinner
         android:id="@+id/spinner"
-        android:layout_width="210dp"
+        android:layout_width="0dp"
         android:layout_height="41dp"
         android:layout_marginStart="32dp"
-        android:layout_marginTop="45dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="24dp"
         android:background="@android:drawable/btn_dropdown"
         android:backgroundTint="@color/material_dynamic_primary90"
@@ -106,7 +106,7 @@
 
     <EditText
         android:id="@+id/etPlannedDate"
-        android:layout_width="212dp"
+        android:layout_width="0dp"
         android:layout_height="61dp"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="24dp"
@@ -123,7 +123,7 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="28dp"
@@ -135,7 +135,7 @@
 
     <RadioGroup
         android:id="@+id/radioGroup"
-        android:layout_width="212dp"
+        android:layout_width="0dp"
         android:layout_height="101dp"
         android:layout_marginStart="28dp"
         android:layout_marginTop="288dp"
@@ -164,9 +164,11 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/panel2"
-        android:layout_width="363dp"
+        android:layout_width="0dp"
         android:layout_height="226dp"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="388dp"
+        android:layout_marginEnd="16dp"
         android:background="@android:drawable/gallery_thumb"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.47"
