@@ -1,16 +1,3 @@
-# tarea_5
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para la realización de esta tarea se me presentaron algunas dificultades. La primera fue la implementación de los Widgets adecuados ya que no entendía bien el uso de estos y cual de todos era mejor usar. Sin embargo, al familiarizarme un poco más con documentación vista en clase e investiga por cuenta propia fui comprendiendo sus usos y lo requerido. 
+Otra dificultad fue el cambio que debía realizarse con al presionar el botón. Pude realizar esta tarea usando un setState dentro de un StatefulWidget para manejar el cambio del estado de la aplicación. 
+Para agregar la imagen también tuve dificultades, pero encontré en internet una manera de cargar la imagen desde la web indicando el link. 
